@@ -1,4 +1,3 @@
-# Praktichna3
 a = list(input("Введiть").lower()) 
 
 for i in a:
